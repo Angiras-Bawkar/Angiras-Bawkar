@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Angiras-Bawkar
-- 👀 I’m interested in ... Anime,coding as hobby.
+- 👀 I’m interested in ... coding as hobby.
 - 🌱 I’m currently learning ... C++, python as hobby.
 - 🏫 I'm Currently studying at VIT-Bhopal.(Aerospace).
 - 📫 How to reach me ... 
